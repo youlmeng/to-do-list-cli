@@ -1,6 +1,5 @@
-<h1 align="center">to-do-list-cli <img src="https://img.shields.io/github/stars/youlmeng/to-do-list-cli?label=Stars" alt="stars"></h1>
+<h1 align="center"> To Do List <img src="https://img.shields.io/github/stars/youlmeng/to-do-list-cli?label=Stars" alt="stars"></h1>
 
-# to-do-list-cli
 待办事项（To-Do List）管理程序。它是一个命令行程序，允许用户添加、查看、删除和标记待办事项。
 
 ### 功能：
@@ -26,4 +25,6 @@
 - 添加 日期 或 优先级 功能，帮助用户更好地管理任务。
 - 制作图形用户界面（GUI）版本，提升用户体验。
 
-<h1 align="center">Awesome Cloudflare <img src="https://img.shields.io/github/stars/zhuima/awesome-cloudflare?label=Stars" alt="stars"></h1>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=youlmeng/to-do-list-cli&type=Timeline)](https://star-history.com/#youlmeng/to-do-list-cli&Timeline)
